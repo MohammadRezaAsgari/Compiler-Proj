@@ -1,0 +1,8 @@
+/home/roham/Desktop/compiler-proj/llvm-project/build-calc/CMakeFiles/intrinsics_gen.dir
+/home/roham/Desktop/compiler-proj/llvm-project/build-calc/CMakeFiles/omp_gen.dir
+/home/roham/Desktop/compiler-proj/llvm-project/build-calc/CMakeFiles/acc_gen.dir
+/home/roham/Desktop/compiler-proj/llvm-project/build-calc/CMakeFiles/edit_cache.dir
+/home/roham/Desktop/compiler-proj/llvm-project/build-calc/CMakeFiles/rebuild_cache.dir
+/home/roham/Desktop/compiler-proj/llvm-project/build-calc/src/CMakeFiles/calc.dir
+/home/roham/Desktop/compiler-proj/llvm-project/build-calc/src/CMakeFiles/edit_cache.dir
+/home/roham/Desktop/compiler-proj/llvm-project/build-calc/src/CMakeFiles/rebuild_cache.dir
